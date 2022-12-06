@@ -1,5 +1,38 @@
-b{
-    border-radius: 50%;
-    width: 200px;
-    height: 300px;
+
+.e12_87 { 
+	border-radius:500px;
+	width:302px;
+	height:302px;
+	position:absolute;
+	left:756px;
+	top:69px;
+	background-image:url(2.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1 { 
+	color:rgba(255, 255, 255, 1);
+	width:840px;
+	height:36px;
+	position:absolute;
+	left:656px;
+	top:350px;
+	font-family:League Spartan;
+	text-align: left;
+	font-size:80px;
+	letter-spacing:-1.5;
+	line-height:px;
+}
+.a1 { 
+	color:rgba(255, 255, 255, 1);
+	width:311px;
+	height:36px;
+	position:absolute;
+	left: 656px;
+	top:450px;
+	font-family:League Spartan;
+	text-align:left;
+	font-size:80px;
+	letter-spacing:-1.5;
+	line-height:px;
 }
